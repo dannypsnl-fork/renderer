@@ -4,4 +4,4 @@ set_warnings("all", "error")
 
 target("renderer")
     set_kind("binary")
-    add_files("src/*.c")
+    add_files("src/*.cpp")
